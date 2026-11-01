@@ -1,0 +1,19 @@
+
+TITANIC DATASET ANALYSIS SUMMARY
+
+Total passengers: 891
+Total columns: 16
+Overall survival rate: 38.38%
+Average passenger age: 29.36
+Average ticket fare: 32.20
+
+Survival rate by gender (%):
+sex
+female    74.20
+male      18.89
+
+Survival rate by passenger class (%):
+pclass
+1    62.96
+2    47.28
+3    24.24

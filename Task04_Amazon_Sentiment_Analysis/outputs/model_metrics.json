@@ -1,0 +1,10 @@
+{
+    "accuracy": 0.8973,
+    "training_samples": 3929,
+    "testing_samples": 983,
+    "sentiment_classes": [
+        "negative",
+        "neutral",
+        "positive"
+    ]
+}

@@ -1,0 +1,15 @@
+
+IPL DATA ANALYSIS PROJECT
+
+Historical matches available: 1169
+2025 matches available: 74
+2026 ball-by-ball records: 17509
+
+Analysis completed:
+- Historical IPL match exploration
+- 2025 team wins
+- 2025 top run scorers
+- 2025 top wicket-takers
+- 2026 team run analysis
+- 2026 top run scorers
+- 2026 match summary

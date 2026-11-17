@@ -126,7 +126,7 @@ I look forward to applying these learnings to more advanced projects and continu
 ## 🔗 Connect With Me
 
 - **GitHub:** [Giteshkumar23](https://github.com/Giteshkumar23)
-- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+- **LinkedIn:** [Gitesh Patel](https://www.linkedin.com/giteshkumar23)
 
 ⭐ If you find this repository useful, feel free to explore the projects and share your feedback!
 
